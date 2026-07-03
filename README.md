@@ -11,6 +11,9 @@ The Persistence Criterion — Formal framework distinguishing epistemic obscurat
 Octahedral Orbital Architectures — Quantitative stability analysis of Dyson swarm configurations using Floquet theory. `DOI: 10.5281/zenodo.18528558`
 
 Null Geodesic Path Integrals — Derives light travel-time asymmetry directly from the pseudo-Riemannian metric, recovering Shapiro delay and gravitational lensing time delays as special cases. Introduces an asymmetry measure κ, with extensions to 2PN corrections, Kerr frame-dragging, and gravitational wave perturbations. Validated against 6 primary measured systems and 14 additional catalogued lensing systems. `DOI: 10.5281/zenodo.20043816`
+## Books
+
+From Nothing to Never — A journey through the universe's entire story, from the incoherence of "before the Big Bang" to the long, cold dissolution at the end of time. Traces cosmic history as a live negotiation between structure and dissolution: gravity, entropy, and dark energy. Addresses open questions in cosmology, quantum foundations, and the physics of cosmic voids. `DOI: 10.5281/zenodo.19508896`
 
 ## Systems
 
